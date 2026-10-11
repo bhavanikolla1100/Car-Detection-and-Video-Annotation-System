@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+
+# Ignore video files
+video/*.mp4
+output/*.mp4
+
+# Ignore generated results
+runs/
