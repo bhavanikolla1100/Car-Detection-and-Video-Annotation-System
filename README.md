@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Detection, Tracking & Video Annotation Using YOLO
 
 ## Project Overview
@@ -40,3 +41,7 @@ Ensure the input video path in the Python script is correct.
 
 ## Project Objective
 To gain practical experience in computer vision, vehicle detection, video processing, and data annotation.
+=======
+# Car-Detection-and-Video-Annotation-System
+Copy and paste this description into your GitHub repository's **Description** field:  **Vehicle Detection and Video Annotation using Python, YOLO, and OpenCV. Detects vehicles in videos, generates annotated video output with bounding boxes and tracking IDs, and exports detection results to CSV for analysis.**
+>>>>>>> 153ead9e2ff38f5cdac3a12789017a02c1b97f54
